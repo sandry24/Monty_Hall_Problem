@@ -1,2 +1,3 @@
-# Monty_Hall
+# Monty Hall Problem
+An illustration of the Monty Hall problem equipped with a win rate percentage to show the difference between the 2 strategies. For those who don't know the Monty Hall problem goes like this: you have 3 doors and only one gets you the victory, after you choose a door, one of the remaining 2 is revealed to be the wrong one, now the choice is up to you, do you stay with your guess or do you switch to the other door? This problem has been solved mathematically with numerous videos and articles about it. In short, if you stay with your guess you have a 33% chance of getting it right, but if you switch that number jumps up to 66%. Playing enough games with either strategy you will see the win rate start to converge towards 33% or 66%. 
  
